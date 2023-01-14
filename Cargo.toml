@@ -1,10 +1,10 @@
 [package]
 name = "rdownloader"
-description = "Rust Downloader"
 version = "0.1.0"
 edition = "2021"
 authors = ["Hussain <huss4in7@outlook.com>"]
-license-file = "LICENSE"
+license = "Apache-2.0"
+description = "Rust Downloader"
 repository = "https://github.com/huss4in/RDownloader"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
